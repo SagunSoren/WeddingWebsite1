@@ -15,8 +15,16 @@ function Footer() {
     <div className="bg-[#FFFFFF] text-black">
       <div className="flex justify-between items-center p-20 max-lg:flex-col max-lg:gap-10">
         <div className="text-center">
-          <h1>FOLLOW US</h1>
-          <p>contact@subhvivah.in</p>
+          <h1
+            className={`${cormorant_garamod.className} tracking-wider text-2xl uppercase`}
+          >
+            FOLLOW US
+          </h1>
+          <p
+            className={`${cormorant_garamod_italic.className} tracking-wider text-xl`}
+          >
+            contact@subhvivah.in
+          </p>
           <div>
             <div className="flex items-center max-sm:flex-col gap-2 mx-auto mt-2">
               <div className="flex items-center gap-2 ">
@@ -58,8 +66,16 @@ function Footer() {
         </div>
         <div className="h-32 bg-[#c5c5c5] w-0.5 max-lg:hidden"></div>
         <div className="text-center">
-          <p>Reach Us</p>
-          <p>+91 6203767622 | +92 923413221</p>
+          <p
+            className={`${cormorant_garamod.className} tracking-wider text-2xl uppercase`}
+          >
+            Reach Us
+          </p>
+          <p
+            className={`${cormorant_garamod_italic.className} tracking-wider text-xl`}
+          >
+            +91 6203767622 | +92 923413221
+          </p>
         </div>
       </div>
       <div className="bg-[#F5F0EB]">
