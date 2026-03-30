@@ -30,7 +30,6 @@ export const posts = [
       "/assets/Photography/fashion/roma/image2.jpg",
       "/assets/Photography/fashion/roma/image3.jpg",
       "/assets/Photography/fashion/roma/image4.jpg",
-      "/assets/Photography/fashion/roma/image5.jpg",
     ],
     category: "Fashion",
   },
