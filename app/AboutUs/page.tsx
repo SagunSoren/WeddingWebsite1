@@ -49,7 +49,7 @@ const page = () => {
           <div className="lg:w-1/3 ">
             <div className="relative h-70 lg:w-100">
               <Image
-                src={"/assets/AboutUsVisionMission/vision.jpg"}
+                src={"/assets/AboutUsVisionMIssion/vision.jpg"}
                 alt="jlkgvds"
                 fill
                 sizes="(max-width: 768px) 100vw, 33vw"
@@ -73,7 +73,7 @@ const page = () => {
           <div className="lg:w-1/3">
             <div className="relative h-70 lg:w-100">
               <Image
-                src={"/assets/AboutUsVisionMission/mission.jpg"}
+                src={"/assets/AboutUsVisionMIssion/mission.jpg"}
                 alt="jlkgvds"
                 fill
                 sizes="(max-width: 768px) 100vw, 33vw"
@@ -101,7 +101,7 @@ const page = () => {
           <div className="lg:w-1/3">
             <div className="relative h-70 lg:w-100">
               <Image
-                src={"/assets/AboutUsVisionMission/achievements.jpg"}
+                src={"/assets/AboutUsVisionMIssion/achievements.jpg"}
                 alt="jlkgvds"
                 fill
                 sizes="(max-width: 768px) 100vw, 33vw"
