@@ -16,7 +16,7 @@ function PhotoCard({
         <Image
           className="object-cover scale-105 hover:translate-x-3 duration-500"
           src={imgSrc}
-          alt="banana"
+          alt={title}
           fill
           sizes="(max-width: 768px) 100vw, 33vw"
           priority
