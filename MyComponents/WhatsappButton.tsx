@@ -2,7 +2,7 @@ import React from "react";
 import { RiWhatsappLine } from "react-icons/ri";
 
 const WhatsAppButton = () => {
-  const phoneNumber = "6203767622"; // Replace with your phone number (include country code, no + or -)
+  const phoneNumber = "916203767622"; // Replace with your phone number (include country code, no + or -)
   const message = "Hello! I'd like to chat about your services."; // Pre-filled message (optional)
 
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;

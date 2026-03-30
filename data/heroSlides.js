@@ -1,10 +1,10 @@
 export const heroSlides = [
-  {
-    id: 1,
-    image: "/assets/HeroImages/image1.jpg",
-    title: "Poetry in Motion, Captured in Time",
-    description: "Translating the rhythm of your celebration into a gallery of breathtaking, soulful imagery.",
-  },
+  // {
+  //   id: 1,
+  //   image: "/assets/HeroImages/image1.jpg",
+  //   title: "Poetry in Motion, Captured in Time",
+  //   description: "Translating the rhythm of your celebration into a gallery of breathtaking, soulful imagery.",
+  // },
   {
     id: 2,
     image: "/assets/HeroImages/image2.jpg",
@@ -35,10 +35,10 @@ export const heroSlides = [
     title: "The Start of Your Forever",
     description: "Turning your 'I Do' into a legacy that lives on through generations.",
   },
-  {
-    id: 7,
-    image: "/assets/HeroImages/image7.jpg",
-    title: "Honest. Authentic. Intimate.",
-    description: "Photography for couples who want to remember exactly how it felt.",
-  }
+  // {
+  //   id: 7,
+  //   image: "/assets/HeroImages/image7.jpg",
+  //   title: "Honest. Authentic. Intimate.",
+  //   description: "Photography for couples who want to remember exactly how it felt.",
+  // }
 ];
